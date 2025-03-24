@@ -1,6 +1,8 @@
 
 This project was an experiment in using the Cursor IDE to build something slightly pointless, that I otherwise wouldn't have spent the time to build. I found it interesting how it trended towards building everything in a one big file, and that code quality declined over time, overall my conclusions is AI is coming for our jobs and we're all screwed. Enjoy.
 
+https://www.tiktok.com/@stockbottom
+
 # TikTok Stock Investment Video Generator
 
 This tool automatically generates TikTok videos showing the growth of hypothetical stock investments over time. The videos feature animated graphs that visualize how a monthly investment would have performed over a specified period.
