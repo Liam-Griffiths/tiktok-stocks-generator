@@ -7,6 +7,8 @@ https://www.tiktok.com/@stockbottom
 
 This tool automatically generates TikTok videos showing the growth of hypothetical stock investments over time. The videos feature animated graphs that visualize how a monthly investment would have performed over a specified period.
 
+<img width="300" alt="Screenshot 2025-03-24 at 15 32 02" src="https://github.com/user-attachments/assets/dc6f2509-698a-4587-8d97-d0d6fa88fa85" />
+
 Todo:
 - Auto video upload.
 - Auto image sourcing.
